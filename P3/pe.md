@@ -1,0 +1,1 @@
+Generar el archivo CSV, obtener el mejor recorrido usando algoritmos genéticos sin el uso de DEAP.
